@@ -1,0 +1,16 @@
+./C++/Benchtop/BVCX01/*
+*.tlog
+*.log
+*.idb
+*.pdb
+*.vs
+*.lib
+*.dll
+*.cache
+*.user
+*.exe
+*.ilk
+*.obj
+*.zip
+Python/.idea/misc.xml
+Python/.idea/workspace.xml
